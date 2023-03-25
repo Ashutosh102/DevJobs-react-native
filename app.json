@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "devjobs",
+    "slug": "devjobs",
+    "extra": {
+      "eas": {
+        "projectId": "adbdce4d-6d89-4de8-b764-cf1e47d162ac"
+      }
+    },
+    "android": {
+      "package": "com.devashu102.devjobs"
+    },
+    "ios": {
+      "bundleIdentifier": "com.devashu102.devjobs"
+    }
+  }
+}
